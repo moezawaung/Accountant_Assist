@@ -1,0 +1,1223 @@
+[
+  {
+    "id": 1,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 2,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 3,
+    "topic": "ethics",
+    "question": "What is the role of professional skepticism?",
+    "answer": "It helps accountants critically assess financial information and detect irregularities."
+  },
+  {
+    "id": 4,
+    "topic": "myanmar_tax",
+    "question": "When is the deadline for annual tax return filing in Myanmar?",
+    "answer": "The deadline for annual tax return filing is June 30th following the end of the financial year."
+  },
+  {
+    "id": 5,
+    "topic": "ratios",
+    "question": "What is the debt-to-equity ratio?",
+    "answer": "Debt-to-Equity = Total Liabilities / Shareholders’ Equity."
+  },
+  {
+    "id": 6,
+    "topic": "reporting",
+    "question": "What is GAAP?",
+    "answer": "GAAP stands for Generally Accepted Accounting Principles used for financial reporting."
+  },
+  {
+    "id": 7,
+    "topic": "myanmar_tax",
+    "question": "When is the deadline for annual tax return filing in Myanmar?",
+    "answer": "The deadline for annual tax return filing is June 30th following the end of the financial year."
+  },
+  {
+    "id": 8,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 9,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 10,
+    "topic": "ratios",
+    "question": "What is the debt-to-equity ratio?",
+    "answer": "Debt-to-Equity = Total Liabilities / Shareholders’ Equity."
+  },
+  {
+    "id": 11,
+    "topic": "ethics",
+    "question": "What is the role of professional skepticism?",
+    "answer": "It helps accountants critically assess financial information and detect irregularities."
+  },
+  {
+    "id": 12,
+    "topic": "payroll",
+    "question": "What is the minimum wage in Myanmar?",
+    "answer": "As of 2023, the minimum wage in Myanmar is 4,800 MMK per day."
+  },
+  {
+    "id": 13,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 14,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 15,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 16,
+    "topic": "ratios",
+    "question": "What is the current ratio?",
+    "answer": "Current Ratio = Current Assets / Current Liabilities. It measures liquidity."
+  },
+  {
+    "id": 17,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 18,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 19,
+    "topic": "payroll",
+    "question": "How do I calculate severance pay in Myanmar?",
+    "answer": "Severance pay depends on the length of service, typically one month’s salary for each year of service."
+  },
+  {
+    "id": 20,
+    "topic": "myanmar_tax",
+    "question": "When is the deadline for annual tax return filing in Myanmar?",
+    "answer": "The deadline for annual tax return filing is June 30th following the end of the financial year."
+  },
+  {
+    "id": 21,
+    "topic": "ratios",
+    "question": "Why is return on assets important?",
+    "answer": "It shows how efficiently a company uses assets to generate profit."
+  },
+  {
+    "id": 22,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 23,
+    "topic": "myanmar_tax",
+    "question": "Is commercial tax applicable on services in Myanmar?",
+    "answer": "Yes, commercial tax is levied on most services at a standard rate of 5%."
+  },
+  {
+    "id": 24,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 25,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 26,
+    "topic": "budgeting",
+    "question": "What is zero-based budgeting?",
+    "answer": "Zero-based budgeting requires justifying all expenses from scratch each period."
+  },
+  {
+    "id": 27,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 28,
+    "topic": "budgeting",
+    "question": "How do I prepare a cash flow budget?",
+    "answer": "List expected cash inflows and outflows monthly, then calculate net cash position."
+  },
+  {
+    "id": 29,
+    "topic": "myanmar_tax",
+    "question": "What is the corporate income tax rate in Myanmar?",
+    "answer": "The corporate income tax rate in Myanmar is generally 25%."
+  },
+  {
+    "id": 30,
+    "topic": "budgeting",
+    "question": "How do I prepare a cash flow budget?",
+    "answer": "List expected cash inflows and outflows monthly, then calculate net cash position."
+  },
+  {
+    "id": 31,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 32,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 33,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 34,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 35,
+    "topic": "ratios",
+    "question": "What is the debt-to-equity ratio?",
+    "answer": "Debt-to-Equity = Total Liabilities / Shareholders’ Equity."
+  },
+  {
+    "id": 36,
+    "topic": "myanmar_tax",
+    "question": "Is commercial tax applicable on services in Myanmar?",
+    "answer": "Yes, commercial tax is levied on most services at a standard rate of 5%."
+  },
+  {
+    "id": 37,
+    "topic": "budgeting",
+    "question": "What is zero-based budgeting?",
+    "answer": "Zero-based budgeting requires justifying all expenses from scratch each period."
+  },
+  {
+    "id": 38,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 39,
+    "topic": "budgeting",
+    "question": "Why is budgeting important for SMEs in Myanmar?",
+    "answer": "It helps manage limited resources and plan for seasonal cash flow changes."
+  },
+  {
+    "id": 40,
+    "topic": "payroll",
+    "question": "What is the minimum wage in Myanmar?",
+    "answer": "As of 2023, the minimum wage in Myanmar is 4,800 MMK per day."
+  },
+  {
+    "id": 41,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 42,
+    "topic": "payroll",
+    "question": "Are employers required to contribute to social security in Myanmar?",
+    "answer": "Yes, employers must contribute 3% of the employee's salary to the Social Security Board."
+  },
+  {
+    "id": 43,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 44,
+    "topic": "payroll",
+    "question": "Are employers required to contribute to social security in Myanmar?",
+    "answer": "Yes, employers must contribute 3% of the employee's salary to the Social Security Board."
+  },
+  {
+    "id": 45,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 46,
+    "topic": "myanmar_tax",
+    "question": "Is commercial tax applicable on services in Myanmar?",
+    "answer": "Yes, commercial tax is levied on most services at a standard rate of 5%."
+  },
+  {
+    "id": 47,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 48,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 49,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 50,
+    "topic": "myanmar_tax",
+    "question": "How do I register for a TIN in Myanmar?",
+    "answer": "You can register for a Taxpayer Identification Number (TIN) at the Internal Revenue Department (IRD) office or online."
+  },
+  {
+    "id": 51,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 52,
+    "topic": "compliance",
+    "question": "What is the Anti-Money Laundering Law in Myanmar?",
+    "answer": "It requires financial institutions to report suspicious transactions to the FIU."
+  },
+  {
+    "id": 53,
+    "topic": "compliance",
+    "question": "What licenses are required for a finance company in Myanmar?",
+    "answer": "You need a license from the Central Bank of Myanmar and registration with DICA."
+  },
+  {
+    "id": 54,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 55,
+    "topic": "payroll",
+    "question": "What is the minimum wage in Myanmar?",
+    "answer": "As of 2023, the minimum wage in Myanmar is 4,800 MMK per day."
+  },
+  {
+    "id": 56,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 57,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 58,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 59,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 60,
+    "topic": "reporting",
+    "question": "What is included in a financial statement?",
+    "answer": "It includes the balance sheet, income statement, and cash flow statement."
+  },
+  {
+    "id": 61,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 62,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 63,
+    "topic": "payroll",
+    "question": "How do I calculate severance pay in Myanmar?",
+    "answer": "Severance pay depends on the length of service, typically one month’s salary for each year of service."
+  },
+  {
+    "id": 64,
+    "topic": "ethics",
+    "question": "What is the role of professional skepticism?",
+    "answer": "It helps accountants critically assess financial information and detect irregularities."
+  },
+  {
+    "id": 65,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 66,
+    "topic": "ethics",
+    "question": "What is the role of professional skepticism?",
+    "answer": "It helps accountants critically assess financial information and detect irregularities."
+  },
+  {
+    "id": 67,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 68,
+    "topic": "ratios",
+    "question": "What is the debt-to-equity ratio?",
+    "answer": "Debt-to-Equity = Total Liabilities / Shareholders’ Equity."
+  },
+  {
+    "id": 69,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 70,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 71,
+    "topic": "payroll",
+    "question": "What is the minimum wage in Myanmar?",
+    "answer": "As of 2023, the minimum wage in Myanmar is 4,800 MMK per day."
+  },
+  {
+    "id": 72,
+    "topic": "compliance",
+    "question": "Who regulates accounting standards in Myanmar?",
+    "answer": "The Myanmar Accountancy Council and the Ministry of Planning and Finance."
+  },
+  {
+    "id": 73,
+    "topic": "ratios",
+    "question": "What is the current ratio?",
+    "answer": "Current Ratio = Current Assets / Current Liabilities. It measures liquidity."
+  },
+  {
+    "id": 74,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 75,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 76,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 77,
+    "topic": "compliance",
+    "question": "Are financial statements required to be audited in Myanmar?",
+    "answer": "Yes, for registered companies, annual audits are mandatory."
+  },
+  {
+    "id": 78,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 79,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 80,
+    "topic": "budgeting",
+    "question": "How do I forecast expenses for a trading business?",
+    "answer": "Use historical data, adjust for inflation, and consider market trends."
+  },
+  {
+    "id": 81,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 82,
+    "topic": "ratios",
+    "question": "What is the current ratio?",
+    "answer": "Current Ratio = Current Assets / Current Liabilities. It measures liquidity."
+  },
+  {
+    "id": 83,
+    "topic": "auditing",
+    "question": "Is statutory audit mandatory in Myanmar?",
+    "answer": "Yes, companies registered under the Myanmar Companies Law must undergo annual statutory audits."
+  },
+  {
+    "id": 84,
+    "topic": "compliance",
+    "question": "What licenses are required for a finance company in Myanmar?",
+    "answer": "You need a license from the Central Bank of Myanmar and registration with DICA."
+  },
+  {
+    "id": 85,
+    "topic": "auditing",
+    "question": "Is statutory audit mandatory in Myanmar?",
+    "answer": "Yes, companies registered under the Myanmar Companies Law must undergo annual statutory audits."
+  },
+  {
+    "id": 86,
+    "topic": "budgeting",
+    "question": "Why is budgeting important for SMEs in Myanmar?",
+    "answer": "It helps manage limited resources and plan for seasonal cash flow changes."
+  },
+  {
+    "id": 87,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 88,
+    "topic": "compliance",
+    "question": "Are financial statements required to be audited in Myanmar?",
+    "answer": "Yes, for registered companies, annual audits are mandatory."
+  },
+  {
+    "id": 89,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 90,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 91,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 92,
+    "topic": "payroll",
+    "question": "Are employers required to contribute to social security in Myanmar?",
+    "answer": "Yes, employers must contribute 3% of the employee's salary to the Social Security Board."
+  },
+  {
+    "id": 93,
+    "topic": "compliance",
+    "question": "What is the Anti-Money Laundering Law in Myanmar?",
+    "answer": "It requires financial institutions to report suspicious transactions to the FIU."
+  },
+  {
+    "id": 94,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 95,
+    "topic": "compliance",
+    "question": "What licenses are required for a finance company in Myanmar?",
+    "answer": "You need a license from the Central Bank of Myanmar and registration with DICA."
+  },
+  {
+    "id": 96,
+    "topic": "ratios",
+    "question": "How do I calculate net profit margin?",
+    "answer": "Net Profit Margin = Net Profit / Revenue × 100."
+  },
+  {
+    "id": 97,
+    "topic": "auditing",
+    "question": "Is statutory audit mandatory in Myanmar?",
+    "answer": "Yes, companies registered under the Myanmar Companies Law must undergo annual statutory audits."
+  },
+  {
+    "id": 98,
+    "topic": "budgeting",
+    "question": "Why is budgeting important for SMEs in Myanmar?",
+    "answer": "It helps manage limited resources and plan for seasonal cash flow changes."
+  },
+  {
+    "id": 99,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 100,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 101,
+    "topic": "compliance",
+    "question": "Who regulates accounting standards in Myanmar?",
+    "answer": "The Myanmar Accountancy Council and the Ministry of Planning and Finance."
+  },
+  {
+    "id": 102,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 103,
+    "topic": "ratios",
+    "question": "Why is return on assets important?",
+    "answer": "It shows how efficiently a company uses assets to generate profit."
+  },
+  {
+    "id": 104,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 105,
+    "topic": "reporting",
+    "question": "How often must companies report financials in Myanmar?",
+    "answer": "Companies must report annually and submit to the DICA."
+  },
+  {
+    "id": 106,
+    "topic": "budgeting",
+    "question": "What tools can I use for budgeting in Myanmar?",
+    "answer": "You can use Excel, accounting software, or local ERP systems."
+  },
+  {
+    "id": 107,
+    "topic": "reporting",
+    "question": "What is the role of DICA in financial reporting?",
+    "answer": "DICA oversees company registration and compliance with reporting standards."
+  },
+  {
+    "id": 108,
+    "topic": "myanmar_tax",
+    "question": "What is the corporate income tax rate in Myanmar?",
+    "answer": "The corporate income tax rate in Myanmar is generally 25%."
+  },
+  {
+    "id": 109,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 110,
+    "topic": "compliance",
+    "question": "What is the Anti-Money Laundering Law in Myanmar?",
+    "answer": "It requires financial institutions to report suspicious transactions to the FIU."
+  },
+  {
+    "id": 111,
+    "topic": "ratios",
+    "question": "Why is return on assets important?",
+    "answer": "It shows how efficiently a company uses assets to generate profit."
+  },
+  {
+    "id": 112,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 113,
+    "topic": "budgeting",
+    "question": "How do I forecast expenses for a trading business?",
+    "answer": "Use historical data, adjust for inflation, and consider market trends."
+  },
+  {
+    "id": 114,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 115,
+    "topic": "auditing",
+    "question": "Is statutory audit mandatory in Myanmar?",
+    "answer": "Yes, companies registered under the Myanmar Companies Law must undergo annual statutory audits."
+  },
+  {
+    "id": 116,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 117,
+    "topic": "myanmar_tax",
+    "question": "What is the corporate income tax rate in Myanmar?",
+    "answer": "The corporate income tax rate in Myanmar is generally 25%."
+  },
+  {
+    "id": 118,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 119,
+    "topic": "myanmar_tax",
+    "question": "What is the corporate income tax rate in Myanmar?",
+    "answer": "The corporate income tax rate in Myanmar is generally 25%."
+  },
+  {
+    "id": 120,
+    "topic": "myanmar_tax",
+    "question": "Is commercial tax applicable on services in Myanmar?",
+    "answer": "Yes, commercial tax is levied on most services at a standard rate of 5%."
+  },
+  {
+    "id": 121,
+    "topic": "budgeting",
+    "question": "How do I forecast expenses for a trading business?",
+    "answer": "Use historical data, adjust for inflation, and consider market trends."
+  },
+  {
+    "id": 122,
+    "topic": "reporting",
+    "question": "What is included in a financial statement?",
+    "answer": "It includes the balance sheet, income statement, and cash flow statement."
+  },
+  {
+    "id": 123,
+    "topic": "myanmar_tax",
+    "question": "Is commercial tax applicable on services in Myanmar?",
+    "answer": "Yes, commercial tax is levied on most services at a standard rate of 5%."
+  },
+  {
+    "id": 124,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 125,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 126,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 127,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 128,
+    "topic": "ratios",
+    "question": "What is the debt-to-equity ratio?",
+    "answer": "Debt-to-Equity = Total Liabilities / Shareholders’ Equity."
+  },
+  {
+    "id": 129,
+    "topic": "payroll",
+    "question": "How do I calculate severance pay in Myanmar?",
+    "answer": "Severance pay depends on the length of service, typically one month’s salary for each year of service."
+  },
+  {
+    "id": 130,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 131,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 132,
+    "topic": "compliance",
+    "question": "Are financial statements required to be audited in Myanmar?",
+    "answer": "Yes, for registered companies, annual audits are mandatory."
+  },
+  {
+    "id": 133,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 134,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 135,
+    "topic": "myanmar_tax",
+    "question": "Is commercial tax applicable on services in Myanmar?",
+    "answer": "Yes, commercial tax is levied on most services at a standard rate of 5%."
+  },
+  {
+    "id": 136,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 137,
+    "topic": "payroll",
+    "question": "How is overtime calculated under Myanmar labor law?",
+    "answer": "Overtime is paid at double the normal hourly rate for hours beyond 8 per day or 44 per week."
+  },
+  {
+    "id": 138,
+    "topic": "budgeting",
+    "question": "What is zero-based budgeting?",
+    "answer": "Zero-based budgeting requires justifying all expenses from scratch each period."
+  },
+  {
+    "id": 139,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 140,
+    "topic": "myanmar_tax",
+    "question": "How do I register for a TIN in Myanmar?",
+    "answer": "You can register for a Taxpayer Identification Number (TIN) at the Internal Revenue Department (IRD) office or online."
+  },
+  {
+    "id": 141,
+    "topic": "reporting",
+    "question": "Are IFRS standards used in Myanmar?",
+    "answer": "Yes, Myanmar has adopted IFRS for public interest entities."
+  },
+  {
+    "id": 142,
+    "topic": "ratios",
+    "question": "What is the current ratio?",
+    "answer": "Current Ratio = Current Assets / Current Liabilities. It measures liquidity."
+  },
+  {
+    "id": 143,
+    "topic": "compliance",
+    "question": "What is the Anti-Money Laundering Law in Myanmar?",
+    "answer": "It requires financial institutions to report suspicious transactions to the FIU."
+  },
+  {
+    "id": 144,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 145,
+    "topic": "payroll",
+    "question": "What is the minimum wage in Myanmar?",
+    "answer": "As of 2023, the minimum wage in Myanmar is 4,800 MMK per day."
+  },
+  {
+    "id": 146,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 147,
+    "topic": "compliance",
+    "question": "Who regulates accounting standards in Myanmar?",
+    "answer": "The Myanmar Accountancy Council and the Ministry of Planning and Finance."
+  },
+  {
+    "id": 148,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 149,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 150,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 151,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 152,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 153,
+    "topic": "ratios",
+    "question": "How do I calculate net profit margin?",
+    "answer": "Net Profit Margin = Net Profit / Revenue × 100."
+  },
+  {
+    "id": 154,
+    "topic": "myanmar_tax",
+    "question": "When is the deadline for annual tax return filing in Myanmar?",
+    "answer": "The deadline for annual tax return filing is June 30th following the end of the financial year."
+  },
+  {
+    "id": 155,
+    "topic": "budgeting",
+    "question": "Why is budgeting important for SMEs in Myanmar?",
+    "answer": "It helps manage limited resources and plan for seasonal cash flow changes."
+  },
+  {
+    "id": 156,
+    "topic": "ethics",
+    "question": "What is accounting ethics?",
+    "answer": "Accounting ethics ensures honesty and transparency in financial reporting."
+  },
+  {
+    "id": 157,
+    "topic": "reporting",
+    "question": "What is the role of DICA in financial reporting?",
+    "answer": "DICA oversees company registration and compliance with reporting standards."
+  },
+  {
+    "id": 158,
+    "topic": "budgeting",
+    "question": "What tools can I use for budgeting in Myanmar?",
+    "answer": "You can use Excel, accounting software, or local ERP systems."
+  },
+  {
+    "id": 159,
+    "topic": "budgeting",
+    "question": "What is zero-based budgeting?",
+    "answer": "Zero-based budgeting requires justifying all expenses from scratch each period."
+  },
+  {
+    "id": 160,
+    "topic": "ratios",
+    "question": "What is the current ratio?",
+    "answer": "Current Ratio = Current Assets / Current Liabilities. It measures liquidity."
+  },
+  {
+    "id": 161,
+    "topic": "reporting",
+    "question": "How often must companies report financials in Myanmar?",
+    "answer": "Companies must report annually and submit to the DICA."
+  },
+  {
+    "id": 162,
+    "topic": "reporting",
+    "question": "Are IFRS standards used in Myanmar?",
+    "answer": "Yes, Myanmar has adopted IFRS for public interest entities."
+  },
+  {
+    "id": 163,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 164,
+    "topic": "reporting",
+    "question": "What is GAAP?",
+    "answer": "GAAP stands for Generally Accepted Accounting Principles used for financial reporting."
+  },
+  {
+    "id": 165,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 166,
+    "topic": "auditing",
+    "question": "How often should internal audits be conducted?",
+    "answer": "Internal audits are typically conducted quarterly or annually."
+  },
+  {
+    "id": 167,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 168,
+    "topic": "ratios",
+    "question": "How do I calculate net profit margin?",
+    "answer": "Net Profit Margin = Net Profit / Revenue × 100."
+  },
+  {
+    "id": 169,
+    "topic": "auditing",
+    "question": "What is the purpose of an internal audit?",
+    "answer": "Internal audits evaluate compliance, risk management, and internal controls."
+  },
+  {
+    "id": 170,
+    "topic": "compliance",
+    "question": "What is the penalty for late tax filing in Myanmar?",
+    "answer": "Penalties include fines and interest on unpaid taxes."
+  },
+  {
+    "id": 171,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 172,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 173,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 174,
+    "topic": "reporting",
+    "question": "How often must companies report financials in Myanmar?",
+    "answer": "Companies must report annually and submit to the DICA."
+  },
+  {
+    "id": 175,
+    "topic": "payroll",
+    "question": "Are employers required to contribute to social security in Myanmar?",
+    "answer": "Yes, employers must contribute 3% of the employee's salary to the Social Security Board."
+  },
+  {
+    "id": 176,
+    "topic": "myanmar_tax",
+    "question": "What is the corporate income tax rate in Myanmar?",
+    "answer": "The corporate income tax rate in Myanmar is generally 25%."
+  },
+  {
+    "id": 177,
+    "topic": "compliance",
+    "question": "Are financial statements required to be audited in Myanmar?",
+    "answer": "Yes, for registered companies, annual audits are mandatory."
+  },
+  {
+    "id": 178,
+    "topic": "reporting",
+    "question": "Are IFRS standards used in Myanmar?",
+    "answer": "Yes, Myanmar has adopted IFRS for public interest entities."
+  },
+  {
+    "id": 179,
+    "topic": "reporting",
+    "question": "Are IFRS standards used in Myanmar?",
+    "answer": "Yes, Myanmar has adopted IFRS for public interest entities."
+  },
+  {
+    "id": 180,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 181,
+    "topic": "payroll",
+    "question": "Are employers required to contribute to social security in Myanmar?",
+    "answer": "Yes, employers must contribute 3% of the employee's salary to the Social Security Board."
+  },
+  {
+    "id": 182,
+    "topic": "reporting",
+    "question": "How often must companies report financials in Myanmar?",
+    "answer": "Companies must report annually and submit to the DICA."
+  },
+  {
+    "id": 183,
+    "topic": "auditing",
+    "question": "Is statutory audit mandatory in Myanmar?",
+    "answer": "Yes, companies registered under the Myanmar Companies Law must undergo annual statutory audits."
+  },
+  {
+    "id": 184,
+    "topic": "ratios",
+    "question": "How do I calculate net profit margin?",
+    "answer": "Net Profit Margin = Net Profit / Revenue × 100."
+  },
+  {
+    "id": 185,
+    "topic": "reporting",
+    "question": "What is GAAP?",
+    "answer": "GAAP stands for Generally Accepted Accounting Principles used for financial reporting."
+  },
+  {
+    "id": 186,
+    "topic": "compliance",
+    "question": "What licenses are required for a finance company in Myanmar?",
+    "answer": "You need a license from the Central Bank of Myanmar and registration with DICA."
+  },
+  {
+    "id": 187,
+    "topic": "reporting",
+    "question": "What is included in a financial statement?",
+    "answer": "It includes the balance sheet, income statement, and cash flow statement."
+  },
+  {
+    "id": 188,
+    "topic": "payroll",
+    "question": "How do I calculate severance pay in Myanmar?",
+    "answer": "Severance pay depends on the length of service, typically one month’s salary for each year of service."
+  },
+  {
+    "id": 189,
+    "topic": "ratios",
+    "question": "What is inventory turnover?",
+    "answer": "Inventory Turnover = Cost of Goods Sold / Average Inventory."
+  },
+  {
+    "id": 190,
+    "topic": "ethics",
+    "question": "What are common ethical issues in accounting?",
+    "answer": "Common issues include misreporting, fraud, and conflict of interest."
+  },
+  {
+    "id": 191,
+    "topic": "reporting",
+    "question": "What is included in a financial statement?",
+    "answer": "It includes the balance sheet, income statement, and cash flow statement."
+  },
+  {
+    "id": 192,
+    "topic": "compliance",
+    "question": "What licenses are required for a finance company in Myanmar?",
+    "answer": "You need a license from the Central Bank of Myanmar and registration with DICA."
+  },
+  {
+    "id": 193,
+    "topic": "myanmar_tax",
+    "question": "How do I register for a TIN in Myanmar?",
+    "answer": "You can register for a Taxpayer Identification Number (TIN) at the Internal Revenue Department (IRD) office or online."
+  },
+  {
+    "id": 194,
+    "topic": "ethics",
+    "question": "Why is integrity important in accounting?",
+    "answer": "Integrity builds trust and ensures compliance with financial regulations."
+  },
+  {
+    "id": 195,
+    "topic": "auditing",
+    "question": "What documents are required for an audit in Myanmar?",
+    "answer": "Documents include financial statements, ledgers, tax filings, and bank statements."
+  },
+  {
+    "id": 196,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  {
+    "id": 197,
+    "topic": "myanmar_tax",
+    "question": "What is the withholding tax rate for non-resident companies in Myanmar?",
+    "answer": "The withholding tax rate for non-resident companies is typically 2.5% to 15%, depending on the income type."
+  },
+  {
+    "id": 198,
+    "topic": "budgeting",
+    "question": "Why is budgeting important for SMEs in Myanmar?",
+    "answer": "It helps manage limited resources and plan for seasonal cash flow changes."
+  },
+  {
+    "id": 199,
+    "topic": "payroll",
+    "question": "What deductions are made from employee salaries in Myanmar?",
+    "answer": "Deductions include income tax, social security, and any agreed-upon deductions like loans."
+  },
+  {
+    "id": 200,
+    "topic": "ethics",
+    "question": "How should accountants handle confidential information?",
+    "answer": "Accountants must protect client data and not disclose it without consent."
+  },
+  
+  {"id":201,"topic":"greeting","question":"Hi","answer":"Hello! How can I assist you today?"},
+  {"id":202,"topic":"greeting","question":"Hello","answer":"Hi there! How may I help you?"},
+  {"id":203,"topic":"greeting","question":"Good morning","answer":"Good morning! Wishing you a productive day ahead."},
+  {"id":204,"topic":"greeting","question":"Good afternoon","answer":"Good afternoon! How can I support you today?"},
+  {"id":205,"topic":"greeting","question":"Good evening","answer":"Good evening! Do you need help with finance or accounting tasks?"},
+  {"id":206,"topic":"greeting","question":"Good night","answer":"Good night! Rest well and see you next time."},
+  {"id":207,"topic":"greeting","question":"How are you?","answer":"I’m here and ready to help you with your questions."},
+  {"id":208,"topic":"greeting","question":"Nice to meet you","answer":"Nice to meet you too! Let’s get started."},
+  {"id":209,"topic":"greeting","question":"Welcome","answer":"Welcome! I’m your finance and accounting assistant."},
+  {"id":210,"topic":"greeting","question":"Goodbye","answer":"Goodbye! Have a great day."},
+  {"id":211,"topic":"greeting","question":"See you later","answer":"See you later! I’ll be here when you need me."},
+  {"id":212,"topic":"greeting","question":"Take care","answer":"Take care! Wishing you success in your work."},
+  {"id":213,"topic":"greeting","question":"Thank you","answer":"You’re welcome! Happy to help."},
+  {"id":214,"topic":"greeting","question":"Thanks","answer":"No problem! Anytime you need assistance."},
+  {"id":215,"topic":"greeting","question":"Sorry","answer":"No worries! Let’s continue."},
+  {"id":216,"topic":"greeting","question":"Excuse me","answer":"Yes, I’m here. What would you like to ask?"},
+  {"id":217,"topic":"greeting","question":"Please","answer":"Of course! I’ll assist you with that."},
+  {"id":218,"topic":"greeting","question":"Yes","answer":"Great! Let’s move forward."},
+  {"id":219,"topic":"greeting","question":"No","answer":"Alright, let’s adjust accordingly."},
+  {"id":220,"topic":"greeting","question":"Okay","answer":"Okay! Let’s proceed."}
+]
