@@ -47,5 +47,5 @@ User Query
 ---
 
 ## Conclusion
-THis Project proves that classical AI methods can
+This Project proves that classical AI methods can
 successfully build real-world chatbots without APIs.
